@@ -48,7 +48,7 @@ python PDF_PROCESSING_TOOL.py
 
 ## 📞 Support
 
-For business inquiries: **FutureWave Consultants**
+For business inquiries: **Rishabh Private Limited**
 
 ---
 
